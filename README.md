@@ -30,10 +30,11 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 
 ### User stories
 
--   [ ] Story
+- [ ] Story
 
 ### Challenges
 
--   [ ] Architect, design and implement a transition from **on premise** to or **cloud computing** using **Amazon Web Service** or **Google Cloud** Big Data solutions;
+- [ ] Configure whole infrastructure (cluster) for data ingestion and data processing using hadoop ecosystem from ground up; 
+- [ ] Architect, design and implement a transition from **on premise** to **cloud computing** using **Amazon Web Service** or **Google Cloud** Big Data solutions;
 
 ### Data feeds
