@@ -36,7 +36,7 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 - [ ] As **broker**, I want to see which clients are facing a low performance comapred with an index, so I can offer to them a consulting, menthorship or traning, in order to help them perform better;
 - [ ] As **borker**, I want to see which customers are out of line with their suitability, so I can help them bring their investiments strategy closer to their investor profile or have an insight from those has changed the investiment behaviour;
  
-### Challenges
+### Challenges (Optional)
 
 - [ ] Configure whole infrastructure (cluster) for data ingestion and data processing using hadoop ecosystem from ground up; 
 - [ ] Architect, design and implement a transition from **on premise** to **cloud computing** using **Amazon Web Service** or **Google Cloud** Big Data solutions;
