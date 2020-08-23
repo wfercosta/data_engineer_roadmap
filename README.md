@@ -25,7 +25,7 @@ You have just be hired for startup to work as Principal Data Engineer. The busin
 
 Besides of the quantity and range of products available, and the user experience created for these clients, is the which of this startup to provide a daily information about the performance for each customer investiment porftolio and in the future provide personalized recommendations to improve their investment performance.
 
-You challenge as Principal Data Engineer is to architect, design and implement a data architecture for an **on premise** or **cloud computing IaaS** (*Infrastrcuture as Service*) infrastrcuture a brand new data architecture for this startup in order to provide to your custermers data about their investments performance. 
+You challenge as Principal Data Engineer is to architect, design and implement a data architecture for an **on premise infrastrcuture** a brand new data architecture for this startup in order to provide to your custermers data about their investments performance. 
 
 
 ### User stories
@@ -34,6 +34,6 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 
 ### Challenges
 
--   [ ] Story
+-   [ ] Architect, design and implement a transition from *on premise* to or **cloud computing** using Amazon Web Service or Google Cloud Big Data products;
 
 ### Data feeds
