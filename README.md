@@ -34,6 +34,6 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 
 ### Challenges
 
--   [ ] Architect, design and implement a transition from *on premise* to or **cloud computing** using Amazon Web Service or Google Cloud Big Data products;
+-   [ ] Architect, design and implement a transition from **on premise** to or **cloud computing** using **Amazon Web Service** or **Google Cloud** Big Data solutions;
 
 ### Data feeds
