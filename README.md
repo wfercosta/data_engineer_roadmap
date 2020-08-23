@@ -30,11 +30,39 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 
 ### User stories
 
-- [ ] Story
-
+- [ ] As **investor**, I want to receive a month overview from my portfolio, with the percentual allocation and  profitability by portfolio, asset class and asset, so I can have a better understanding of the evolution of my portfolio;
+- [ ] As **investor**, I want to see a daily overview of my portfolio, with the percentual allocation and  profitability by portfolio, asset class and asset, so I can follow-up its evolution and may decide to rebalancing it;
+- [ ] As **broker**, I want to see which clients are facing a low performance comapred with an index, so I can offer to them a consulting, menthorship or traning, in order to help them perform better;
+ 
 ### Challenges
 
 - [ ] Configure whole infrastructure (cluster) for data ingestion and data processing using hadoop ecosystem from ground up; 
 - [ ] Architect, design and implement a transition from **on premise** to **cloud computing** using **Amazon Web Service** or **Google Cloud** Big Data solutions;
 
-### Data feeds
+### DATA FEEDS
+
+#### CLIENT DATA FEED
+
+This file brings the active clients information. This includes information about its ID, Address and etc. 
+
+| Column | Datatype | Length | Description |
+|--------|----------|--------|-------------|
+|Fristname| TEXT| 15|The client's first name|
+|Lastname| TEXT | 15|The client's last name|
+|Middlename| TEXT | 20 | The clients's middle name |
+|Document number| TEXT | 20 | The clients's document number |
+|Document type | TEXT | 10 | The clients's document type | 
+|Street Address 1 | TEXT | 60 | The client's street address line 1 |
+|Street Address 2 | TEXT | 60 | The client's street address line 2 |
+|City | TEXT | 20 | The client's city |
+|County | TEXT | 20 | The client's county |
+|State  | TEXT | 20 | The client's state |
+|Zipcode | NUMBER | 09 | The client's zipcode |
+|Country | TEXT | 10 | The client's country |
+|Contract number| NUMBER | 10 | The client's contract number. Left padding with zeros |
+|Investor profile| NUMBER | 10 | The client's investor profile. Could be: CONSERVATIVE, MODERATE, BALANCED, GROWTH |
+
+
+
+
+
