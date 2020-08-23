@@ -32,7 +32,9 @@ You challenge as Principal Data Engineer is to architect, design and implement a
 
 - [ ] As **investor**, I want to receive a month overview from my portfolio, with the percentual allocation and  profitability by portfolio, asset class and asset, so I can have a better understanding of the evolution of my portfolio;
 - [ ] As **investor**, I want to see a daily overview of my portfolio, with the percentual allocation and  profitability by portfolio, asset class and asset, so I can follow-up its evolution and may decide to rebalancing it;
+- [ ] As **investor**, I want to see the difference between my portfolio profile and my investor profile, so I can check if I am out of step with my suitability;
 - [ ] As **broker**, I want to see which clients are facing a low performance comapred with an index, so I can offer to them a consulting, menthorship or traning, in order to help them perform better;
+- [ ] As **borker**, I want to see which customers are out of line with their suitability, so I can help them bring their investiments strategy closer to their investor profile or have an insight from those has changed the investiment behaviour;
  
 ### Challenges
 
@@ -63,6 +65,11 @@ This file brings the active clients information. This includes information about
 |Investor profile| NUMBER | 10 | The client's investor profile. Could be: CONSERVATIVE, MODERATE, BALANCED, GROWTH |
 
 
+#### PORTFOLIOS ASSETS DATA FEED
 
+#### FUNDS INFO DATA FEED
 
+#### STOCKS DATA FEED
+
+#### BENCHMARK INDEX DATA FEED
 
