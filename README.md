@@ -15,6 +15,6 @@
 
 ### User stories
 
-[ ] The story
+-   [ ] Story
 
 ### Data feeds
